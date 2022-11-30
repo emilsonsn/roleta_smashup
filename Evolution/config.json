@@ -1,0 +1,16 @@
+{
+    "sequencias":{
+        "pares": 12,
+        "impares": 12,
+        "1 a 18": 12,
+        "19 a 36": 12,
+        "vermelhos": 12,
+        "pretos": 12,
+        "primeira dúzia": 8,
+        "segunda dúzia": 8,
+        "terceira dúzia":  8,
+        "primeira fileira": 8,
+        "segunda fileira": 8,
+        "terceira fileira": 8
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "login": "emilsonsn18",
+    "password": "Belinhabela13",
+    "sequencias":{
+        "pares": 7,
+        "impares": 7,
+        "1 a 18": 7,
+        "19 a 36": 7,
+        "vermelhos": 7,
+        "pretos": 7,
+        "primeira dúzia": 6,
+        "segunda dúzia": 6,
+        "terceira dúzia":  6,
+        "primeira fileira": 6,
+        "segunda fileira": 6,
+        "terceira fileira":68
+    }
+}
